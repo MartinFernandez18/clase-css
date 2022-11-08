@@ -1,0 +1,29 @@
+*{
+	padding: 4px;
+	margin: 4px;
+}
+body{
+	background-color: red;
+}
+h1{
+	text-align: center;
+	color: white;
+}
+img{
+	height:200px ;
+	width: 300px;
+}
+p{	
+	text-align: center;
+	color: yellow;
+
+}
+#gif{
+	align-: center;
+	height:350px ;
+	width: 900px;
+}
+#centrado{
+	display: flex;
+	justify-content: center;
+}
